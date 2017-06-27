@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency "faraday", "~> 0.12.1"
   spec.add_dependency "faraday_middleware", "~> 0.11.0.1"
-  spec.add_dependency "activemodel",  "~> 5.12"
+  spec.add_dependency "activemodel",  "~> 5.04"
   spec.add_dependency "multi_xml", "~> 0.6.0"
   spec.add_dependency "addressable", "~> 2.5.1"
 
